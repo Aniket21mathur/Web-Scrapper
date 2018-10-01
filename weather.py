@@ -1,3 +1,4 @@
+#libraries to be imported before we start
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
