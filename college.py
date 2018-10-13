@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import numpy as np
 
 #connect like this
 connect=requests.get("https://www.topuniversities.com/student-info/choosing-university/worlds-top-100-universities")
